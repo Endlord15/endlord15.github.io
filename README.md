@@ -3,7 +3,7 @@ This is where you find stuff out about what I'm doing online!
 
 ## I have a discord bot. It is currently in development!
 
-[My Discord bot site](Galaxybot)
+[My Discord bot site](https://endlord15.github.io/GalaxyBot/)
 
 
 ## Social Media
