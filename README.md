@@ -7,7 +7,7 @@ This is where you find stuff out about what I'm doing online!
 
 
 ## Social Media
-[Twitter](Twitter: https://twitter.com/Ender18813839)
+[Twitter](https://twitter.com/Ender18813839)
 [Youtube](https://bit.ly/Endlord15YT)
 [Insta](https://instagram.com/endlord15)
 [Discord Server](https://discord.gg/PpNAePu)
