@@ -1,7 +1,7 @@
 ## Welcome to my website!
 This is where you find stuff out about what I'm doing online!
 
-## I have a discord bot. It is currently in development!
+## I have a discord bot. It is finished it will be updated more!!
 
 [My Discord bot site](https://endlord15.github.io/GalaxyBot/)
 
